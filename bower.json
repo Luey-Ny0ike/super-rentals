@@ -1,0 +1,17 @@
+{
+  "name": "super-rentals",
+  "description": "Small description for super-rentals goes here",
+  "main": "",
+  "authors": [
+    "lewis nyoike <nyoikelewis@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
