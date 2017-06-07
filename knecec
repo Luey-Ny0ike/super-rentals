@@ -1,0 +1,69 @@
+[33mcommit b18bff985a1f62fa79f0954fa295591ba94527e7[m
+Author: lewis nyoike <nyoikelewis@gmail.com>
+Date:   Tue Jun 6 19:04:13 2017 +0300
+
+    created another route called rentals in order to let users view more details about a particular rental
+    Also added a params.rental_id in the model hook to locate single rental records that the user has requested
+
+[33mcommit a2fe7cde0f7c8d361cc2a661a2da7b40d5ee0052[m
+Author: lewis nyoike <nyoikelewis@gmail.com>
+Date:   Tue Jun 6 18:43:45 2017 +0300
+
+    Added a function to update our rentals but keep the initial city and image
+
+[33mcommit f353f6df39b42a52c2aa185d5e136cc04ecb5f2b[m
+Author: lewis nyoike <nyoikelewis@gmail.com>
+Date:   Tue Jun 6 12:02:16 2017 +0300
+
+    Added the new rental button
+    bootstrap is not working
+
+[33mcommit 53c195a94b17394b1164f32176a30e1272629a4d[m
+Author: lewis nyoike <nyoikelewis@gmail.com>
+Date:   Tue Jun 6 10:08:28 2017 +0300
+
+    added forms for users to input new rentals
+
+[33mcommit 6e393d50281ef5168433f80a35d4590b72e413fa[m
+Author: Tomster <tomster@emberjs.com>
+Date:   Mon Jun 5 14:55:41 2017 +0300
+
+    Initial Commit from Ember CLI v2.13.2
+    
+                                                            _...,
+                                                         ,:^;,...;
+                  -+===;.         ,,--++====++-,,,     .:  /.....,
+                :::::~+++++#:,+#++++++++++++++++++#*..:   /,......
+               (,,,,,,::=+++##++++++++++++++++++++++#.   :....../
+                ...,,,,,::++++++++++++++++++++++++++++++*..,...:
+                *..+...,#@@@@@@@@@++++++++++++++++++++++#*....*
+                  @#,;##############@@@+*+#@@@@@@@@@@#*++#..<
+                  *@##@@+,-*^^^*-+@####@@@######@@@#####@@,,,+
+                    @#@*            @#@@@@#@@+--*^^*--#@@@@@@#
+                    @#@.    @#      @##+++@#,           .@@#@@
+                     #@#    @@     +@@++++#@@     @@     :@@
+                     :@#*         @#@++++++@#*    #@     @@+
+                    :*+@@#;,.__.+@#@+,-^^.++@#          @@++
+                   ;*  :*@@@##@@@@;++r._j^.+@##@+,.__,,@@++.
+                  /*    ........+++++++++++++#@@@@@###@@#++++,
+                ,:       ...,@@@#++===----==@@@####,,....+++++
+               .:       ......@@##@\   ;   :@####@,,...... +++.
+               ;       .........@###,   ;  ;xx#@;,,.....   *;+,
+               |       ........,*;xxxx--^--=xxx,........   :+#;
+               ;         ......,,;xxxxxxxxxxxxx;,.....     *+#
+                ;          ......,::xxxx;.     ......       +.   .
+                 *;            .........  +###  ....       / ,. /:| ,.
+                   .+:             ...  ;##++##, .      ,#. (..v..;*./
+                      **                ##  ###*    .:*&&&+. \.,....<,
+                       #&+**==-..,,__  ;##  ###  :,*+&&&&&&&v+#&,,.._/
+                      #&&&&*...,::,,.  ##; ,##* .*****;:&&&&&&&&&
+                     ,+*+;~*..*** *.* ### ###* *******    *+#&;*
+                                      ##,;##    ****    :,  **
+             #####    ##   ###  ###,  ########       .#####   ;##  ##
+            #######  ;##  #### ,###.  ##########    ########  ### ####
+           ###  ###  ### ##########   ####  ####   ,##   ###  #######*
+          ### ,###  ##############:   ##     ###  #### ,##   :#### ###  ##;
+      ##########    ########### ##   .##    ,###  #######    ##### :######
+        ######    .###### ####  ##   ###    ### ######*    :#####   ####
+           #############  ####  ################    ######## ###
+            #####*  *#*    #:   :###   *###*         *####    #*
